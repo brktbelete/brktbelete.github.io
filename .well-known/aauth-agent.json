@@ -1,0 +1,6 @@
+{
+  "issuer": "https://brktbelete.github.io",
+  "jwks_uri": "https://brktbelete.github.io/.well-known/jwks.json",
+  "client_name": "Bereket Belete",
+  "logo_uri": "https://avatars.githubusercontent.com/u/10297066?v=4"
+}
